@@ -92,4 +92,4 @@ This approach aligns with the vision of **sustainable luxury and responsible bea
 
 ## Project Context
 
-This project was developed as part of the **L’Oréal Brandstorm Innovation Challenge**, exploring the future of **Beauty Tech, personalization, and intelligent fragrance systems**.
+This project was developed as part of the **L’Oréal Brandstorm 2026**, exploring the future of **Beauty Tech, personalization, and intelligent fragrance systems**.
