@@ -58,9 +58,12 @@ Future iterations will integrate **solenoid-controlled fragrance diffusion and a
 
 - Arduino Nano  
 - PPG Heart Rate Sensor  
-- DHT11 Temperature & Humidity Sensor  
-- Indicator LEDs  
-- Solenoid actuator for fragrance diffusion *(planned)*  
+- Temperature & Humidity Sensor (DHT11)
+- Indicator LEDs
+- MOSFET (IRLZ44N)
+- Flyback Diode (IN 4007)
+- Resistors (220Ω, 10kΩ)
+- Solenoid actuator (12V 2A) for fragrance diffusion *(planned)*  
 
 ---
 
