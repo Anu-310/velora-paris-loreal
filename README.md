@@ -48,9 +48,10 @@ Current prototype capabilities include:
 - Environmental monitoring (temperature & humidity)  
 - BPM stabilization and signal filtering  
 - Sensor-driven fragrance activation logic  
-- LED-based output simulation  
+- LED-based output simulation for fragrance response
+- Code-based solenoid control logic for fragrance diffusion 
 
-Future iterations will integrate **solenoid-controlled fragrance diffusion and a fully enclosed luxury device housing**.
+The current implementation validates the sensing, decision, and control architecture of the system. Future iterations will integrate the solenoid diffusion mechanism with the complete hardware assembly and enclosed luxury device housing..
 
 ---
 
