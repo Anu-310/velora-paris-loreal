@@ -1,4 +1,4 @@
-# Velora Paris — Intelligent Adaptive Fragrance System
+# Velora Paris - Intelligent Adaptive Fragrance System
 
 Velora Paris is an intelligent fragrance platform that personalizes scent delivery using biometric and environmental sensing. Designed at the intersection of **beauty, technology, and luxury**, the system transforms perfume from a static gesture into a responsive sensory experience.
 
