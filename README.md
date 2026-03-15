@@ -1,4 +1,4 @@
-# ✨ Velora Paris - Intelligent Adaptive Fragrance System
+# ✦ Velora Paris - Intelligent Adaptive Fragrance System
 
 Velora Paris is an intelligent fragrance platform that personalizes scent delivery using biometric and environmental sensing. Designed at the intersection of beauty, technology, and luxury, the system transforms perfume from a static gesture into a responsive sensory experience.
 
@@ -6,7 +6,7 @@ By combining physiological signals, environmental awareness, and adaptive diffus
 
 ---
 
-## 🌟 Project Vision
+## ✨ Project Vision
 
 Traditional fragrances remain static, unable to adapt to a user’s emotional state or surrounding environment. Velora Paris explores the next frontier of fragrance by creating a sensor-driven, personalized scent experience that evolves in real time.
 
@@ -14,7 +14,7 @@ The concept aligns with emerging trends in beauty technology, personalization, a
 
 ---
 
-## 🔑 Key Features
+## ❖ Key Features
 
 ◆ Biometric sensing using a PPG heart-rate sensor  
 ◆ Mood detection logic based on HR / HRV patterns  
@@ -26,19 +26,19 @@ The concept aligns with emerging trends in beauty technology, personalization, a
 
 ---
 
-## ⚙️ System Workflow
+## ✦ System Workflow
 
-1️⃣ User places a fingertip on the sensing interface  
-2️⃣ Heart-rate signals are captured via PPG sensor  
-3️⃣ Stable biometric readings are analyzed  
-4️⃣ The system identifies the user’s emotional state  
-5️⃣ A corresponding fragrance cartridge is activated  
-6️⃣ Temperature and humidity data adjust diffusion intensity  
-7️⃣ Fragrance is released while contact is maintained  
+▸ User places a fingertip on the sensing interface  
+▸ Heart-rate signals are captured via PPG sensor  
+▸ Stable biometric readings are analyzed  
+▸ The system identifies the user’s emotional state  
+▸ A corresponding fragrance cartridge is activated  
+▸ Temperature and humidity data adjust diffusion intensity  
+▸ Fragrance is released while contact is maintained  
 
 ---
 
-## 🧪 Prototype Implementation
+## ✨ Prototype Implementation
 
 The prototype demonstrates the core sensing and control logic of the adaptive fragrance system.
 
@@ -55,7 +55,7 @@ The current implementation validates the sensing, decision, and control architec
 
 ---
 
-## 🧩 Hardware Components
+## ❖ Hardware Components
 
 ◆ Arduino Nano  
 ◆ PPG Heart Rate Sensor  
@@ -68,7 +68,7 @@ The current implementation validates the sensing, decision, and control architec
 
 ---
 
-## 🌿 Sustainability Perspective
+## ✦ Sustainability Perspective
 
 Velora Paris supports a refill-first luxury fragrance ecosystem.
 
@@ -80,9 +80,9 @@ This approach aligns with the vision of sustainable luxury and responsible beaut
 
 ---
 
-## 👥 Team
+## ❖ Team
 
-**IGNITRON - The House Behind Velora**
+IGNITRON - The House Behind Velora
 
 ◆ Janakiraman Chandrasekaran  
 ◆ Anu Shibaani R  
@@ -90,6 +90,6 @@ This approach aligns with the vision of sustainable luxury and responsible beaut
 
 ---
 
-## 🏆 Project Context
+## ✨ Project Context
 
 This project was developed as part of the **L’Oréal Brandstorm 2026**, exploring the future of **Beauty Tech, personalization, and intelligent fragrance systems**.
