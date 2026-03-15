@@ -63,7 +63,7 @@ Future iterations will integrate **solenoid-controlled fragrance diffusion and a
 - MOSFET (IRLZ44N)
 - Flyback Diode (IN 4007)
 - Resistors (220Ω, 10kΩ)
-- Solenoid actuator (12V 2A) for fragrance diffusion *(planned)*  
+- Solenoid actuator (12V 2A) for fragrance diffusion *(planned)*   
 
 ---
 
