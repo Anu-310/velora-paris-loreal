@@ -1,1 +1,1 @@
-This folder contains the heart rate, HRV, and intensity tables, along with an example and the Bill of Materials (BOM) table.
+This folder contains the heart rate, HRV, and intensity reference tables used in the system, along with an example dataset and the Bill of Materials (BOM).
