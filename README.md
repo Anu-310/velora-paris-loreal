@@ -82,7 +82,7 @@ This approach aligns with the vision of **sustainable luxury and responsible bea
 
 ## Team
 
-**IGNITRON — The House Behind Velora**
+**IGNITRON - The House Behind Velora**
 
 - Janakiraman Chandrasekaran  
 - Anu Shibaani R  
